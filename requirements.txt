@@ -10,3 +10,4 @@ transformers==4.34.0
 streamlit==1.26.1
 requests==2.31.0
 openai==0.27.8
+python-dotenv
